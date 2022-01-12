@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 92d976d9917a5484dbb6f1f96800936c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4278934203362929451
+    second: PC Computer - MapleStory - Dark Pepe_0
+  - first:
+      213: 7496053479148184947
+    second: PC Computer - MapleStory - Dark Pepe_1
+  - first:
+      213: 3407266975201469754
+    second: PC Computer - MapleStory - Dark Pepe_2
+  - first:
+      213: 475965142321842720
+    second: PC Computer - MapleStory - Dark Pepe_3
+  - first:
+      213: 5026213480796334913
+    second: PC Computer - MapleStory - Dark Pepe_4
+  - first:
+      213: -4457836924841970896
+    second: PC Computer - MapleStory - Dark Pepe_5
+  - first:
+      213: -5651258124813411356
+    second: PC Computer - MapleStory - Dark Pepe_6
+  - first:
+      213: 4570417961405037427
+    second: PC Computer - MapleStory - Dark Pepe_7
+  - first:
+      213: 3886555058109008618
+    second: PC Computer - MapleStory - Dark Pepe_8
+  - first:
+      213: 3284754812013059276
+    second: PC Computer - MapleStory - Dark Pepe_9
+  - first:
+      213: 3922849290514288058
+    second: PC Computer - MapleStory - Dark Pepe_10
+  - first:
+      213: 907393403353087242
+    second: PC Computer - MapleStory - Dark Pepe_11
+  - first:
+      213: 2562452356755514296
+    second: PC Computer - MapleStory - Dark Pepe_12
+  - first:
+      213: 8027991567170986920
+    second: PC Computer - MapleStory - Dark Pepe_13
+  - first:
+      213: 7749986140234733473
+    second: PC Computer - MapleStory - Dark Pepe_14
+  - first:
+      213: -8274461641283506118
+    second: PC Computer - MapleStory - Dark Pepe_15
+  - first:
+      213: 1608828461316710955
+    second: PC Computer - MapleStory - Dark Pepe_16
+  - first:
+      213: -8540341776639282098
+    second: PC Computer - MapleStory - Dark Pepe_17
+  - first:
+      213: 8831694607156928012
+    second: PC Computer - MapleStory - Dark Pepe_18
+  - first:
+      213: -2033097287757646706
+    second: PC Computer - MapleStory - Dark Pepe_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 240, z: 365, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49847430c2e94c0800000000000000
+      internalID: -4278934203362929451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37565f96ce4570860800000000000000
+      internalID: 7496053479148184947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02acf8176c7fa9600800000000000000
+      internalID: 475965142321842720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 242
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2520e782b0c540800000000000000
+      internalID: 5026213480796334913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 168
+        width: 78
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd4785da2b291b0800000000000000
+      internalID: -5651258124813411356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 167
+        width: 71
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbc98bbe26d6f30800000000000000
+      internalID: 4570417961405037427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3073bb2af43b2d80800000000000000
+      internalID: -8274461641283506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 79
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22225d26f4b35610800000000000000
+      internalID: 1608828461316710955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 75
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bcfe176c9a7980800000000000000
+      internalID: -8540341776639282098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 6
+        width: 74
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5250f37b709a70800000000000000
+      internalID: 8831694607156928012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 243
+        width: 70
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35adcfe24b094f20800000000000000
+      internalID: 3407266975201469754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033bc2c7fe49222c0800000000000000
+      internalID: -4457836924841970896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 243
+        width: 68
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc1b40291bc59d20800000000000000
+      internalID: 3284754812013059276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Pepe_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84
+        width: 75
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4f7445a2c07630800000000000000
+      internalID: 3922849290514288058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
